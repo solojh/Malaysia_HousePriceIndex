@@ -1,4 +1,5 @@
-Malaysian House Price Index Forecasting & Analysis
+##Malaysian House Price Index Forecasting & Analysis
+
 This project aims to analyze and forecast the Malaysian House Price Index (HPI) using historical data, time series techniques, and deep learning models, along with spatial analysis using GIS.
 
 📌 Project Objectives
