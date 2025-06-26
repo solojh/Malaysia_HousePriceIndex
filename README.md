@@ -34,5 +34,3 @@ This project aims to analyze and forecast the Malaysian House Price Index (HPI) 
   - Quarterly House Price Index by state
   - Historical price data
   - Property type categorization
-
----
