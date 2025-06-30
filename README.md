@@ -22,7 +22,7 @@ This project aims to analyze and forecast the Malaysian House Price Index (HPI) 
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 - Time Series Models (Double exponential smoothing)
 - Deep Learning (TensorFlow / Keras for LSTM)
-- ArcGIS Software
+- ArcGIS
 - Jupyter Notebook
 
 ---
